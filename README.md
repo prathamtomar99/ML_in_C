@@ -24,6 +24,8 @@ This repository contains basic implementations of neural network calculations in
 ## **Folder Structure**
 
     .   
-    ├── BASIC                   # first ML basic folder
-    │   ├── one_neuron          # One Neuron working)
+    ├── BASIC                      # first ML basic folder
+    │   ├── one_neuron             # One Neuron working
+    │   ├── many_neural_with_gate  # different neurons for all gates
+    │   ├── XOR_OR_NAND_AND        # complicated and compact approach for XOR
     └── README.md
